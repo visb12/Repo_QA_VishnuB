@@ -17,13 +17,13 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-05-14T19:56:24.782Z",
+  "updateTime" : "2024-05-14T20:00:15.274Z",
   "objectRefs" : [ {
     "id" : "3YfuOtBTVESd0x5PHQ5DM0",
     "name" : "VishnuB_LocalCSVFile",
